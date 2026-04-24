@@ -42,7 +42,7 @@ Works with Claude Desktop, Cursor, VS Code, or any MCP-compatible client.
 
 ## Capabilities
 
-Audit tools cover health scoring, duplicate detection, relationship integrity, discovery gaps, stale CI identification, and CSDM 5.0 compliance. All audit operations are read-only and unlimited.
+Audit tools cover health scoring, duplicate detection, relationship integrity, discovery gaps, stale CI identification, and CSDM 5.0 compliance. 
 
 Write operations including merging duplicates, retiring stale CIs, bulk field updates, and relationship healing create an immutable audit trail and can be fully rolled back by session.
 
